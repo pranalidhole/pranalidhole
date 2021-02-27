@@ -4,7 +4,7 @@
 
  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dholepranali95_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][(https://twitter.com/dholepranali95)]
+![Twitter Follow](https://img.shields.io/twitter/follow/dholepranali95?label=Follow&style=social)
 <!--
 **pranalidhole/pranalidhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
