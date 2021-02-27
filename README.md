@@ -11,5 +11,7 @@
 </p>
 
 #### Currently working at [SAP Labs, India][sap] 
+#### Graduated from [VIT, Vellore][vit]
 
 [sap]: www.sap.com
+[vit]: https://vit.ac.in/
