@@ -1,4 +1,4 @@
-### ![Alt Text](https://media.giphy.com/media/gAl57bMpaHSCMGOmBk/giphy.gif)
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.jpeg"/>
 
 <!--
 **pranalidhole/pranalidhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
