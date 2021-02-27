@@ -22,6 +22,7 @@
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="SpringBoot" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 
 [sap]: www.sap.com
 [vit]: https://vit.ac.in/
