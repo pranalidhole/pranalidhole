@@ -1,4 +1,4 @@
-### ![Alt Text](https://media.giphy.com/media/6PEUIi57bMBixkn2WY/giphy.gif)
+### ![Alt Text](https://media.giphy.com/media/gAl57bMpaHSCMGOmBk/giphy.gif)
 
 <!--
 **pranalidhole/pranalidhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
