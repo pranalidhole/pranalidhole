@@ -1,6 +1,6 @@
 <img align="left" width="150" height="170" alt="Pranali" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.png"/>
 
-### I'm Pranali Dhole
+## I'm Pranali Dhole
 
  
 
