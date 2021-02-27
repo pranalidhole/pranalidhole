@@ -13,5 +13,12 @@
 #### Currently working at [SAP Labs, India][sap] 
 #### Graduated from [VIT, Vellore][vit]
 
+## Tools and Technologies
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 [sap]: www.sap.com
 [vit]: https://vit.ac.in/
