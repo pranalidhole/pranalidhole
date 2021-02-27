@@ -4,7 +4,7 @@
 
  
 
-<p><a href="https://github.com/pranalidhole" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>![image](https://user-images.githubusercontent.com/36099911/109389668-5584ed80-7933-11eb-9683-5bec8ef68905.png)
+<p><a href="https://github.com/pranalidhole" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 **pranalidhole/pranalidhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
