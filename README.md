@@ -1,4 +1,4 @@
-### ![Alt Text](https://media.giphy.com/media/6PEUIi57bMBixkn2WY/giphy.gif width="250" height="250")
+### ![Alt Text](https://media.giphy.com/media/6PEUIi57bMBixkn2WY/giphy.gif) { width: 200px; }
 
 <!--
 **pranalidhole/pranalidhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
