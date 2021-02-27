@@ -1,5 +1,10 @@
 <img align="left" width="150" height="150" alt="Pranali" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.png"/>
 
+### I'm Pranali Dhole
+
+ 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/dholepranali95_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
 <!--
 **pranalidhole/pranalidhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
