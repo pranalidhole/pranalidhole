@@ -1,4 +1,4 @@
-<img align="left" width="160" height="180" alt="Pranali" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.png"/>
+<img align="left" width="160" height="190" alt="Pranali" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.png"/>
 
 ## I'm Pranali Dhole
 
