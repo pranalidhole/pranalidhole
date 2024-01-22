@@ -9,8 +9,8 @@
 <a href="https://twitter.com/pranalidhole95" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/dholepranali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-#### Currently working at [SAP Labs, India][sap] 
+#### Currently completing my 2nd graduation from Arizona State University
+#### Was working at [SAP Labs, India][sap] 
 #### Graduated from [VIT, Vellore][vit]
 
 ## Tools and Technologies
