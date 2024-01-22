@@ -10,7 +10,9 @@
 <a href="https://www.linkedin.com/in/dholepranali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-#### Currently completing my 2nd graduation from Arizona State University
+
+
+#### Currently completing my 2nd graduation from [Arizona State University][asu]
 #### Was working at [SAP Labs, India][sap] 
 #### Graduated from [VIT, Vellore][vit]
 
@@ -31,3 +33,4 @@
 
 [sap]: www.sap.com
 [vit]: https://vit.ac.in/
+[asu]: https://www.asu.edu/
