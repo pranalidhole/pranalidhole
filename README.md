@@ -34,7 +34,7 @@
 
 <!-- Visitor Badge -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=pranalidhole.pranalidhole" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranalidhole.pranalidhole" alt="visitor badge"/>
 </p>
 
 [sap]: https://www.sap.com
