@@ -1,5 +1,5 @@
 <!-- Profile Image and Social Media Badges -->
-<img align="left" width="160" height="200" alt="Pranali" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.png"/>
+<img align="left" width="160" height="220" alt="Pranali" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.png"/>
 
 # Hi there! I'm Pranali Dhole 👋
 
