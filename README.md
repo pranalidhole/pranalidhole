@@ -15,7 +15,7 @@
 </p>
 
 <!-- Bio and Education -->
-#### Currently completing my 2nd graduation from [Arizona State University][asu]
+#### Completed my 2nd graduation from [Arizona State University][asu]
 #### Previously worked at [SAP Labs, India][sap] 
 #### Graduated from [VIT, Vellore][vit]
 
