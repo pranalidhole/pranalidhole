@@ -17,7 +17,7 @@
 
 - **Software Developer** at SAP Labs, India (June 2019 - July 2023)
   
-- **Software Developer Inter** at SAP Labs India (June 2018 - May 2019)
+- **Software Developer Intern** at SAP Labs India (June 2018 - May 2019)
   
 
 <!-- Bio and Education -->
