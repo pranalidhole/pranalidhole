@@ -1,5 +1,4 @@
-<!-- Profile Image and Social Media Badges -->
-<img align="left" width="160" height="250" alt="Pranali" src="https://raw.githubusercontent.com/pranalidhole/pranalidhole/master/animated.png"/>
+
 
 # Hi there! I'm Pranali Dhole 👋
 <p>
@@ -14,15 +13,27 @@
   </a>
 </p>
 
+## 💼 Experience
+
+- **Software Developer** at SAP Labs, India (June 2019 - July 2023)
+  
+- **Software Developer Inter** at SAP Labs India (June 2018 - May 2019)
+  
+
 <!-- Bio and Education -->
-#### Completed my 2nd graduation from [Arizona State University][asu]
-#### Previously worked at [SAP Labs, India][sap] 
-#### Graduated from [VIT, Vellore][vit]
+## 🎓 Education
+
+- **M.S. in Information Systems Management**, [Arizona State University][asu], Tempe, AZ (August 2023 - July 2024)
+- **M.Tech in Computer Science and Engineering**, [VIT, Vellore][vit], India (July 2017 - June 2019)
+- **B.E in Computer Engineering**, [Savitribai Phule Pune University][sppu], Pune, India (July 2013 - June 2017)
+
 
 <!-- Tools and Technologies -->
 ## Tools and Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
@@ -30,6 +41,12 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="SpringBoot" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <!-- Visitor Badge -->
 <p align="center">
@@ -39,3 +56,4 @@
 [sap]: https://www.sap.com
 [vit]: https://vit.ac.in/
 [asu]: https://www.asu.edu/
+[sppu]: http://www.unipune.ac.in/
